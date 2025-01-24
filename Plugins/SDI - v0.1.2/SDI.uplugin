@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SDI",
+	"Description": "Quick to iterate fixed dialogue system",
+	"Category": "Blueprints",
+	"CreatedBy": "BlueFlameIndieGames",
+	"CreatedByURL": "ryanwgentzler.wordpress.com",
+	"DocsURL": "https://docs.google.com/document/d/1LdeP2ARacz3yw-U0rGc0N1nbWcgDMGuHw0IGblrfpVY/edit?usp=sharing",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:blueflameindiegames@gmail.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
