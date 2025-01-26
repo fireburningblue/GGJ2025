@@ -1,0 +1,1 @@
+Code was written entirely in blueprints. I used and updated a plugin that I wrote over the summer to have our characters appear and talk. What else should I put in a README about code? Uhh, run on Windows I guess
